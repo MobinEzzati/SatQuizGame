@@ -2,20 +2,6 @@
 
 A two-player trivia game focused on SAT math questions, built with SwiftUI.
 
-## Screenshots
-
-### Start Screen
-![Start Screen](screenshots/start_screen.png)
-*Players can enter their names to begin the game*
-
-### Gameplay
-![Gameplay Screen](screenshots/gameplay.png)
-*Players take turns answering SAT math questions*
-
-### Results
-![Results Screen](screenshots/results.png)
-*End of round results showing scores and performance*
-
 ## Features
 - Two-player turn-based gameplay
 - SAT math questions with multiple choice answers
