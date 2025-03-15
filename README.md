@@ -10,12 +10,6 @@ A two-player trivia game focused on SAT math questions, built with SwiftUI.
 - Beautiful UI with animated frog mascot
 - Rainbow gradient theme
 
-## Demo
-[Link to your screen recording]
-
-## Screenshots
-[Add screenshots of key screens]
-
 ## Technical Details
 - Built with SwiftUI
 - MVVM Architecture
